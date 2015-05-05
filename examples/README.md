@@ -1,4 +1,4 @@
-#Caffe
+#IPython notebook for Caffe
 
 This is the notes i learn about caffe
 
