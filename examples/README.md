@@ -13,3 +13,5 @@ This is the notes i learn about caffe
 5. ipython notebook for [LeNet learn](http://nbviewer.ipython.org/github/BVLC/caffe/blob/tutorial/examples/01-learning-lenet.ipynb)
 
 6. ipython notebook for [Net surgery](http://nbviewer.ipython.org/github/PeterPan1990/caffe/blob/master/examples/net_surgery.ipynb)
+
+7. ipython notebook for fine-tuning on oxford 102 flower dataset[Fine-tune](https://github.com/PeterPan1990/caffe-oxford102)
